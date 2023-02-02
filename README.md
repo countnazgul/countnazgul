@@ -12,3 +12,5 @@
 [![wakatime](https://wakatime.com/badge/user/f32b4c1e-ead8-4c15-a6a1-9f20f336416d.svg)](https://wakatime.com/@f32b4c1e-ead8-4c15-a6a1-9f20f336416d) ![Profile views](https://gpvc.arturio.dev/countnazgul)
 
 ![Metrics](metrics.plugin.wakatime.svg)
+
+![Metrics](qlik-community-data.svg)
