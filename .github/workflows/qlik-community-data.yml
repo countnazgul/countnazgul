@@ -1,4 +1,4 @@
-name: Metrics
+name: Qlik Community User Data
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -21,3 +21,5 @@ jobs:
           plugin_screenshot_title: Qlik Community User Data
           plugin_screenshot_url: https://qlik-community-user-data.vercel.app/
           plugin_screenshot_selector: "#app"
+          plugin_screenshot_viewport: | 
+              { "width": 1280, "height": 400 }
