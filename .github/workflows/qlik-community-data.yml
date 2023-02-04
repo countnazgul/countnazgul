@@ -19,7 +19,7 @@ jobs:
           base: ""
           plugin_screenshot: yes
           plugin_screenshot_title: Qlik Community User Data
-          plugin_screenshot_url: https://qlik-community-user-data.vercel.app/
+          plugin_screenshot_url: https://qlik-community-badges.vercel.app/?userId=124946&theme=dark
           plugin_screenshot_selector: "#app"
           plugin_screenshot_viewport: | 
               { "width": 1280, "height": 400 }
