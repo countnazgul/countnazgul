@@ -13,4 +13,4 @@
 
 ![Metrics](metrics.plugin.wakatime.svg)
 
-![Metrics](qlik-community-data.svg)
+![Metrics](qlik-communnity-badges.png)
