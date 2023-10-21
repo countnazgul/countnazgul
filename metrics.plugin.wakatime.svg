@@ -47,10 +47,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    121 followed
+                    122 followed
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwQFAgYI/8QALRAAAQQBAwIEBAcAAAAAAAAAAQIDBBEFAAYhEjETFFFhIlJxgQcVI0Gh0fD/xAAWAQEBAQAAAAAAAAAAAAAAAAADBQT/xAAeEQACAgICAwAAAAAAAAAAAAABAgADBBETIRJBYf/aAAwDAQACEQMRAD8Az3RJzOFnuMxZSTHyDJBU7zYQCPCs/v0kUfS/TQdJlvJVKLkRxuSFEJBNjjvf00u7njz8s24PH+CKq2y3ZWCOxv1rRPjyWzJbeT+sl2+fmTdj79vtqKtptJdpUFHGBqbb+GeeiN5JsZNls00UGmS50km+ws6Wl7xwopPmymhVeXc/rXPGIljG7ljOtqPheIB6Wizf8HT8jDxXUhdq5+mseXc1BBUdGNVSGHcnY6C1HZ6DRB7gDudEO7cD+VbnmP8ACmpNSWlJ7Hk2PYjkH3GmJ1Z+Ht2vVTu2BFlbK8wtlCXkzekLQKNKBv8A3udYsK5jtTKeMEZx5CAE+P0TWejmnCBpxxr8pGMhpkpUl9LKQ4D81c6q9wbIxEXb0qY35gyG2+tKlLuj9KrUDb09+RiWC8oKUkdAJHNDT5Lc1a/IdgFdpI9z/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEQklEQVR4nL1WSW8jVRCudtu9pe1e3Ntzu2237cRbVtuxHTurna1jx0mchJgMGoFGQkIZgVhOzAUhuHEYuHEAIUDiDOdhuMAFcUCAYDTzA7giAXPhAHrOxFkZ4kzCJz1V1avq97lUflUP4DEwDDQTtMLNA5vj+gxFUYsImVVV1cs87w0TBEHAZYAkSdpZaf7irDTvlSYmP22sbtyvzS9/jfX8eOn9Yqny0dzcwp3GauvB1PTc59Fo/Lrb7WYvTDg0PPrG9lPX/sYrny++63K53P8SSvj9Si6bK9yuNzYe9Pcnnu85a5qmfdXq4p35BefbZWf1+2pt6cvHEHbBcZw+UZ76pFpbusuyrP4fLCQD/XIRUsok+CgJngC2Hdt1nOZPNM3Ip704+Xn7BtTsG2DwNoi0DBl1GmbCO0CT3EVJJUkeJkmSOe1xYjchJmaxyrKs6hOEGEEQLnARLliwn+2Zyc+ooPdFugvx5vGAduZtLARBjPoEISyKUgwFzBJJkhT4WQQJf7EnwpBgd3UfpYHBW2B6g4cBY3odC1n2JzmO0/yKmrZC4dmuP4/qvRJ6fUIcPC4Km+JgaBEiYvwwYFR3sOC4PhUTqZo2yvPegMdDeS9KqGp6DuJSCirWoqJquWNZw3bqTSxQwCx6fT5LFKWopuljnbskMhqklUqvhD5BxBl6sClJchxCQuQwoNn/Kli+NFa9Xl9IkuRkp34YKmfBbKjdE6Heh46asuwfQsgs23bsaUXVygAuIMCJ7cFM6BkQGRUYNwX98jhUI9eA94hQCbaAJs/VsuxofE3XjWIkEl3XDVTCi6JoofM7dFR4FPaoC/GUAMPaQqemCmt2tktmE+LS2HmTUxR1LGAGayzLKQYKlFHArLAsq9A0I9l2vMFynAS5fPE93PnhEqFqejFgBudQwJxCAXNakuSMgQKTCJkVGMuO3w4GQ+vwfyGRTL+cSKReumoew0CzkiQPgq4bM6WJyY+vliwwu9Ha+T2RTL+CBy1Vb6zf7/TPKwBCgYXWZvtPPFenZ6pfdDaLxcqHlhVeuwrCaDR+fX5++Zut7d2/Nlo7v3U2Zdk/srhU/+6qsqxWF++qqlbQtCO3AddxIJHaM4NWIxgMrV4WmW3Hdsvl6c9OOWiallfq6/dam+2HhWL5g5N+07SWGYZRTu4TBEHa0fjOWWSiJA8uO6s/nPUdaJpeaW22/8DFba5t/XryIZRKD77YUfBgxi+DIxhIpPZ9RyAIYsJZaf6MJz+cBV03poZHxt6q1pa+2txqP1QU7djgTSQz+4f2ywUY8I/DQvQ5iMv5fV/6BZxp9ywDzTorzR/xaw7OA3xVKIoWD2yO6zNTmaHXOkbZaoHb5YYscmA7dQs4Dx+xYzuaZkwcxA8Njd7iee+RkXQBJJOZmx0la9SAp2SQGK2bfSK990SHn4XBoZHXGYY980+TzRXeOe9B/wDih606syFtRQAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAIAAAD9b0jDAAAACXBIWXMAAAsTAAALEwEAmpwYAAACK0lEQVR4nN2V2W7bQAxF8/8/V/QxBdpY22iXZiVnxRQj2Ypqy04c9KUl+DAQoKNL8g71Al3/1/Plf4GqtmN5wU75khnLCtV2X4eqtqOnjJ4y1XRXD3lZfQUqyirhLqJwnIyQDtFr7RBxmmXdPAdlebFpwWn21sabMEo51JrST0F5UUpSr2cr1ZkRQnDuiquFiDE6wA+gsm5YXqxnBxBjtIisIqJuZNvBNF+JjSEkrtaPoOyUrwfDeIwRKZVdvyJUP1jE6yYIuR6slPeh2QLt+xgCUraXZrZW7KHyDI0xwjAeQFXbrVDDhTdW1M32QnD+lhh8sEuLzmKVOoDyolyN4o1hZfUuYZzIt+9Oa07eP3OrPXj/CBpj5BVJPZ0pr+o5y/vXH2oYndbxYUA/3C1/qQU4qZGx6eev6e0UY/TGWAALaBGRMm9Mmv6fgeN0NKjFT0sxgZUVK0pWkq1lvCKc1KJpOak1F5sxPoJmy6CkYkWJjPHdrJzWRiqrlJHSSIkz9cYG54xM13c17EH5cLlOrKxE02rG9io0595amGaaF0gZJ7XsB5hmNYyiSd8O7mhQsCR9ywxPzr8K75xDtIBJoPfBewuQOivTEoghWHlkKVjH1bQsK9Zynopj88O2AUgtm3b/gtMHs96HEfevKezslS47wDIZ5bR5QHSIT/xO7GVfPAir4LObHy6ZlrQ5lumt1fPnljQcoofRcOEUOEQHYITYfP51KDyZ/w70NxBstPdlG/fRAAAAAElFTkSuQmCC" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMFBgj/xAAvEAABAwIDBgUDBQAAAAAAAAABAgMEBQYAESEHEhMxQWFRUnGBoRQiMhYjQpGx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMCBAb/xAAfEQACAgIDAAMAAAAAAAAAAAABAgMRAAQSEzEFQVH/2gAMAwEAAhEDEQA/AEjatf8ALh1FVCt9RTK0DzyBmoE8kJ79++Mo3szuqelEudLjNy3dUolSVF34B198S7P225e2CQuoZF4PyFpCvOFH/Nf6we3XPqE25Z0iqrc+tD6goKOreR/AeAGEIvbZOZ3X1h8kWmnJq6A/MQ6BdtfsSuim3JxnoYI3kOq3ilJ/mhXUduXocM4XVniXociGYrn3tZg57pGnTArerjs/ZbalQqyiqqqWpAWr8ltfdko+OgbPv3wu7MXnXbDoxeB3wxujPygkJ+AMFCVYrlnQZoNh9VjagWMMtqNrVGhXD+pqClwNFfGcU2Myw51UR5Tz9zniscv6iVBaJddtOFMqgAzeSrdS6R1IyPznjonlkOmKSRadvyH1PP0WnLcJ1UY6M1eumuCUINqclJoyxuZNZ+PL0fWc3XfcFSumQJ8trhwmP2WUNJPCZ7Z+Jy+O2HSxrspVQtuKYiFxUMJEcsEFXDKUjTPLXTLXGqXS4D9LXBciMGGpO4WdwBGXpiGkUiDRae1Bp0dDUdsaDmSfEnqcBYiDd4vX0ZoJC/ZfL2xn/9k=" width="28" height="28" alt="" />
@@ -74,7 +75,6 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAwADAQAAAAAAAAAAAAAAAAUGAQQHCP/EACcQAAICAgIBAwMFAAAAAAAAAAEDAgQABgUREhMhcSJBUQcUMWOj/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGREBAQEBAQEAAAAAAAAAAAAAAAECERMh/9oADAMBAAIRAxEAPwDyphlboGlcnufMVatKE1VG2IVm3SsyWmcwfHy+ejljv+qcFq2scX51rDX2atOw1q2gS9Wf7qLOiQfoPoxPWByLD3yydwfEcfQVevvvMTYYIoWmEBID0VNPkSf7oj2/BPti3dqtent/M1aqwqum21alj+IxEz0Mj0l1yBzrP6mbDrXH1qfFMqLUgqnHuvEklbWNiSfv7tmPg9fYYt2Tc+W2OlWq8mxM1V1qUvxUIkQVGYiP9Jn5OS+GWKKvtFxaIofXpWkw8TCFhAmIELhDsfMVw7/PWK+Qv2OQvWLlqfnYsMk1suh9Uieyc0jmMyYzPvB//9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAADqklEQVR4nO2WW2wMYRTHJ00rYy+6tmt2tntRO+3SFqFFti6N0Agal1apNqItbdyCNkTKC0JpQ0O8FKlbJC6tSLriQUJE6IbEg7sXPEgk9oUHEuLBX86x35hudxaReBAnOdnvm2++8zvnfOd8s5L0X/6mpKWl+WRZXpqRkREWczFOJvTuHwHJgKqqcDgcPWIuxsmE3v1tiMUydKdbUUCbqx1OPJeG4Jhs4/nMyhVYc+AUjxON0xzt+fqa0JRRk/ettkyG9EsWbJFHMJSABOt7GkNPTy+Wxx0xghnYXwx8acTXL43fx+35aJrhTw212Ww7ParKRu9IFkSkTIZfr6jDozfvcWHvcXTFIz4tuXSwDo0WAx0/Io2s1tBoBk2M8EocdkZy4UZFHXp7v0dHzwhmllqPwQECJo2SYEdlG65LdgZczVMR257L3lJq+Lcjnw3UTvbiVUsQN2q9g4BGobXuJQF+3xRIEdILOqwjn42fn+/GvrJs9tboAK0ZoWrCudKeReM9PwfebfCjeZKC1XHAy5YgTox14eY4rw5LhJK+bA6y0pgyQI6WhdzmZ0hFI/qvvr4enx706YY/7ArhbWsup5ULxAimqNt/zAnaPWuEOUwAyRClIDJN5cr8/DDCBj7uDuFeuZ9bRaRVREERJkaNODTp+ZFYrdaWlUXK6+NLAri9XsObzRpi26bhXVcV7jcGcK06G5emuHEux4OuZaPQVOpH3yqNU0bppzN/vG7koFSbAim6s8tzOBLjpv4NGmoKXGjWbDjotuLh6Cw8a9E4rbTeVuTA4alORCo8DEd8HzlAMM09rJPu4EFAupTnFCpR8pxSJrRmghvlLitqXTK2loRxdtNGXK3y6FX8aF0OwgEXnxWpABKMUu50OqOmFz4tUPhC7XZ75yRvFtYGLAxdmTcaR6ZMx+yQMqB1xJ1Jv+KZKKzKAgUTfCmgRnhJkSe6vy6IBi0TIbeLbxlqHfKaAAQVQNpjfEbnSc/3NuRh4fSAeaXKslxF50le7SnzoG2BD2MUBwOCFmtnqX2Y7i23xpPFOLR9HH/CSPsul+PFyWKudFrfUe7HvInZ5pVav9D/5GJrCD3VAXQv8A5Ih/gAk4oWip0K49bWXL3xY4Z5Te5wtIWzUjd+6WQfGuaO5DMqK8zWP74DiqtEjUYOFvA5UVVz3ybMVVXlYpqpKfA57eaVaiwa498LQ8qXTiz0oqlylF7JZNw4lxNsJIX9qqSnpxfQ9ZdKpf/yT8s3RSOz4Srh5xsAAAAASUVORK5CYII=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAAACXBIWXMAAAsTAAALEwEAmpwYAAABRUlEQVR4nMXWsW7CMBAA0PxH1vIHST8gfwALqTrACh/hKGZkKANd+gEtSHwIfI2RskAWowu4iqzc+dKmV0u3REGPu7OdiyJkrfJYrT9e66e30o42mhXw7uTwXmfLFxX1WXoaq8tnYiG4qMPUcWchskXOQ3V+x65faRMctI0Vp30TDRrK1Mc4KDwbe1jBQTGMQimsoFDXMwzrQrvKSKKup6HMMHR82LKwws+0KpNrXxD+JPz4R6CZpbbSSc0tKZTftQLK1Luk51lqG7SkUZeZv9lCmSp/0wB4nj+TKDyDmwc7ThiqunaoAzEUyyyEKuwMtsFv9NFTv2dBdHHvKXm1+WAbpcpIZZpRVxoKlkKgkSypkdw0JnAs9JDHwkgefMPABr3aKunLW0t/nsQ/wL8dMUKoouaaleQQ9S9jYuRQyUHYrb8a9W+XE74HuwRX8QAAAABJRU5ErkJggg==" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -91,7 +91,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~14 coding hours recorded
+                            ~15 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -111,7 +111,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M6 2a.75.75 0 01.696.471L10 10.731l1.304-3.26A.75.75 0 0112 7h3.25a.75.75 0 010 1.5h-2.742l-1.812 4.528a.75.75 0 01-1.392 0L6 4.77 4.696 8.03A.75.75 0 014 8.5H.75a.75.75 0 010-1.5h2.742l1.812-4.529A.75.75 0 016 2z"/>
                             </svg>
-                            ~2 hours of coding per day
+                            ~3 hours of coding per day
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -133,26 +133,26 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">test-o-matiq-cli</span>
-                                <div class="bar" style="width: 45.944%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 45.472%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">57%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">test-o-matiq</span>
-                                <div class="bar" style="width: 31.736%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">40%</span>
+                                <div class="bar" style="width: 18.256%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">23%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">qlik-iframe-extension</span>
+                                <div class="bar" style="width: 13.88%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">automatiqal-cli</span>
-                                <div class="bar" style="width: 2.008%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.12%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">variables-loader</span>
-                                <div class="bar" style="width: 0.16%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">automatiqal-cli-schema</span>
                                 <div class="bar" style="width: 0.144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
@@ -163,28 +163,28 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 66.87200000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">84%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">YAML</span>
-                                <div class="bar" style="width: 5.096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">JSON</span>
-                                <div class="bar" style="width: 3.328%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Markdown</span>
-                                <div class="bar" style="width: 2.3440000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 52.384%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">65%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 1.784%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 13.336000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">JSON</span>
+                                <div class="bar" style="width: 4.792%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">YAML</span>
+                                <div class="bar" style="width: 4.784000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Markdown</span>
+                                <div class="bar" style="width: 3.6479999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                         </div>
                     </section>
