@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="743" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="744" class="">
     <defs>
         <style/>
     </defs>
@@ -189,7 +189,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                             </svg>
-                            245 answers
+                            246 answers
                         </div>
                     </section>
                 </div>
@@ -286,18 +286,25 @@ Mapping
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M16 1.25v4.146a.25.25 0 01-.427.177L14.03 4.03l-3.75 3.75a.75.75 0 11-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0111.604 1h4.146a.25.25 0 01.25.25zM2.75 3.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-2.5a.75.75 0 111.5 0v2.5A1.75 1.75 0 0113.25 13H9.06l-2.573 2.573A1.457 1.457 0 014 14.543V13H2.75A1.75 1.75 0 011 11.25v-7.5C1 2.784 1.784 2 2.75 2h5.5a.75.75 0 010 1.5h-5.5z"/>
                                         </svg>
-                                        Qlik Cli Connection Problem in Qlik Sense Environment
+                                        Looping Through to Create Alias Name Qlik
                                     </div>
                                     <div class="infos">
                                         <div>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                             </svg>
-                                            saas, qliksense
+                                            qliksense
                                         </div>
                                     </div>
-                                    <div class="body markdown">Ive always used jwt authentication method when connecting to QS client managed (its easier at least) by following the getting started documentation
-When connecting to port 4747 (in general) you have to use some sort of authentication as well. The allowed methods in that case are certificates or jwt (since the token is generated from the certificates and can be verified by the engine). Although i havent tested direct engine connection myself with qlik-cli.</div>
+                                    <div class="body markdown">
+                                        You have to tell Qlik to evaluate
+                                        <code>phoneTypes</code>
+                                        varable, when defining the loop:
+                                        <code class="language-multiline" xml:space="preserve">set phoneTypes = 'CELLPHONE', 'WORKPHONE';
+
+<span class="token trimmed">(3 more lines were trimmed)</span></code>
+                                        And the reload will print the iteration value:
+                                    </div>
                                     <div class="infos">
                                         <div>
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -321,7 +328,7 @@ When connecting to port 4747 (in general) you have to use some sort of authentic
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 014.75 0zm0 3.5h8.5a.25.25 0 01.25.25V6h-11V3.75a.25.25 0 01.25-.25h2zm-2.25 4v6.75c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V7.5h-11z"/>
                                             </svg>
-                                            22 Feb 2025
+                                            22 Apr 2025
                                         </div>
                                     </div>
                                 </div>
