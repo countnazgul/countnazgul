@@ -133,27 +133,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">qlik-repo-mcp</span>
-                                <div class="bar" style="width: 39.36000000000001%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">49%</span>
+                                <div class="bar" style="width: 39.808%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">50%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">qlik-repo-api</span>
-                                <div class="bar" style="width: 36.04%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">45%</span>
+                                <div class="bar" style="width: 27.912%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">35%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">automatiqal</span>
-                                <div class="bar" style="width: 3.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 10.68%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">automatiqal-cli-schema</span>
-                                <div class="bar" style="width: 0.52%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.528%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">qlik-auth</span>
-                                <div class="bar" style="width: 0.344%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.35200000000000004%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -163,27 +163,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 62.624%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 62.128%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">78%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JSON</span>
-                                <div class="bar" style="width: 12.488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 12.831999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">16%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 2.56%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.6719999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TSConfig</span>
-                                <div class="bar" style="width: 1.24%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.2560000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 0.76%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.776%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
